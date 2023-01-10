@@ -2,7 +2,7 @@
 Olá, sou o Gabriel. Trabalho a dois anos como desenvolvedor de software e sou estudante de engenharia de software na UniCesumar
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielrassweiler) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielrassweiler) 
 
 # 💻 Tech Stack:
