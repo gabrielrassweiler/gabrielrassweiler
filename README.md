@@ -12,9 +12,6 @@ Olá, sou o Gabriel. Trabalho a dois anos como desenvolvedor de software e sou e
   src="https://github-readme-stats.vercel.app/api?username=gabrielrassweiler&theme=dark&show_icons=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielrassweiler&theme=dark&hide_border=false"
-/>
-<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrassweiler&theme=dark"
 />
 
