@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, sou o Gabriel. Trabalho a dois anos como desenvolvedor de software e sou estudante de engenharia de software na UniCesumar
+Olá, sou o Gabriel. Trabalho a mais de dois anos como desenvolvedor de software e sou estudante de engenharia de software na UniCesumar
 
 
 # 🌐 Socials:
